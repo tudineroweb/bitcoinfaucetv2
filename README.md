@@ -27,7 +27,7 @@ $ cd /sdcard/downloads
 
 $ git clone https://github.com/tudineroweb/bitcoinfaucetv2.git
 
-$ cd viefaucetv1
+$ cd bitcoinfaucetv2
 
 (editar cfg.py = coockie, user_agent)
 
